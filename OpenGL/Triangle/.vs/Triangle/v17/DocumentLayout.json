@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea 2\\OpenGL\\Triangle\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea_02_17-10126\\OpenGL\\Triangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92B50CCF-F6B5-40B9-8087-147537372FE9}|Triangle.vcxproj|C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea 2\\OpenGL\\Triangle\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{92B50CCF-F6B5-40B9-8087-147537372FE9}|Triangle.vcxproj|C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea_02_17-10126\\OpenGL\\Triangle\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92B50CCF-F6B5-40B9-8087-147537372FE9}|Triangle.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea 2\\OpenGL\\Triangle\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea_02_17-10126\\OpenGL\\Triangle\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea 2\\OpenGL\\Triangle\\Main.cpp",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documents\\USB\\Sep - Dic 2024\\Computacion Grafica\\Tareas\\Tarea_02_17-10126\\OpenGL\\Triangle\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T01:10:26.936Z",
               "EditorCaption": ""
