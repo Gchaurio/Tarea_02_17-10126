@@ -1,6 +1,9 @@
 Gabriel Chaurio
+
 17-10126
+
 OpenGL
+
 Desarrollado en Windows 11
 
 Este proyecto está desarrollado en C++ y utiliza Visual Studio como entorno de desarrollo. El código fuente principal está ubicado en el archivo `Main.cpp`.
