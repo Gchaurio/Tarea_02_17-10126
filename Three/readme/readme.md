@@ -1,6 +1,9 @@
 Gabriel Chaurio
+
 17-10126
+
 Three.js
+
 Desarrollado en Windows 11
 
 Este proyecto está desarrollado utilizando la biblioteca Three.js para renderizado 3D en un navegador web. 
